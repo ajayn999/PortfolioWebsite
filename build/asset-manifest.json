@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78dee155.css",
+    "main.js": "/static/js/main.98b164aa.js",
+    "static/media/Qkart-ecommerce.PNG": "/static/media/Qkart-ecommerce.7719d32040e80d729216.PNG",
+    "static/media/qtrip-dynamic.PNG": "/static/media/qtrip-dynamic.6ee4cfe1ea4c7c2fed16.PNG",
+    "static/media/xflixFrontend.PNG": "/static/media/xflixFrontend.e81c63b56abaf0a9cdfa.PNG",
+    "static/media/Header img.svg": "/static/media/Header img.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/admin-crm.PNG": "/static/media/admin-crm.736ca3125719bb2f6854.PNG",
+    "static/media/Geektrustui.PNG": "/static/media/Geektrustui.a46436d64b7abce8401a.PNG",
+    "static/media/Xboard-newss.PNG": "/static/media/Xboard-newss.ee8417bd27610cce9cba.PNG",
+    "static/media/i.webp": "/static/media/i.88a341191b4321b43131.webp",
+    "index.html": "/index.html",
+    "main.78dee155.css.map": "/static/css/main.78dee155.css.map",
+    "main.98b164aa.js.map": "/static/js/main.98b164aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78dee155.css",
+    "static/js/main.98b164aa.js"
+  ]
+}
