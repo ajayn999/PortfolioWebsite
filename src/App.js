@@ -1,25 +1,21 @@
+import "./App.css";
 import React from "react";
-import Banner from "./components/banner/Banner";
-import Contact from "./components/contact/Contact";
-import Features from "./components/features/Features";
-import Footer from "./components/footer/Footer";
-import Navbar from "./components/navbar/Navbar";
-import Projects from "./components/projects/Projects";
-
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Navbar from "./Components/Navbar.jsx";
+import Home from "./Components/index";
 
 function App() {
   return (
-    <div className="W-full h-auto bg-bodyColor text-lightText">
-      <div className="max-w-screen-xl mx-auto">
-        <Navbar />
-        <Banner />
-        <Features />
-        <Projects />
-       
-        
-        <Contact />
-        <Footer />
-      </div>
+    <div className="App">
+      <Router>
+        <div>
+          <Navbar />
+          <Routes>
+            <Route path="/" element={<Home />}></Route>
+            <Route path="*" element={<div>404 Not Found</div>}></Route>
+          </Routes>
+        </div>
+      </Router>
     </div>
   );
 }
