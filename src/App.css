@@ -872,4 +872,25 @@ input[type="checkbox"] {
   }
 }
 
-/* Responsive Screens Ends*/
+@media only screen and (max-width: 550px) {
+    #footer_container {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    #footer_p {
+        display: flex;
+        justify-content: center;
+    }
+
+    #footer_sec2 {
+        padding-top: 10px;
+    }
+    #footer_sec1{
+      margin-top: 18px;
+    }
+
+} 
+#footer_sec2 {
+  padding-top: 13px;
