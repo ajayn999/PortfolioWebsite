@@ -68,7 +68,8 @@ import { CgProfile } from "react-icons/cg";
 const Footer = () => {
   return (
     <div>
-      <footer style={{display:'flex',flexDirection:'raw' , justifyContent: 'space-around',alignItems: 'center'}}>
+      <footer style={{display:'flex',flexDirection:'raw' , justifyContent: 'space-around',alignItems: 'center',        backgroundColor:'#ffffff',
+        boxShadow: '0px 5.333px 80px 0 rgba(0, 0, 0, 0.1)'}}>
         <div>
           <p>Phone:+919173541990</p>
           <p>Email:ajaypariharn@gmail.com</p>
