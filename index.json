@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "src": "./img/myprojects/Geektrustui.PNG",
+    "title": "GEEKTRUST ADMIN-UI",
+    "description": "Geektrust admin UI challege built in ReactJS It is an interface for admins to see and delete users.",
+    "link": "https://adminuiajayp.netlify.app/"
+  },
+  {
+    "id": "2",
+    "src": "./img/myprojects/xflixFrontend.PNG",
+    "title": "XFLIX VIDEOSHARING ",
+    "description": "XFlix is a video sharing platform which hosts videos for the world to watch. ",
+    "link": "https://xfilx-frontend-ajay.netlify.app/"
+  },
+  {
+    "id": "3",
+    "src": "./img/myprojects/Qkart-ecommerce.PNG",
+    "title": "QKART E-COMMERCE",
+    "description": "QKart is an e-commerce application offering a variety of products for customers to choose from.",
+    "link": "https://qkart-frontend-ajay.netlify.app/"
+  },
+  {
+    "id": "4",
+    "src": "./img/myprojects/Xboard-newss.PNG",
+    "title": "XBOARD NEWS",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+    "link": "https://ajaypxboard.netlify.app/"
+  },
+
+  {
+    "id": "6",
+    "src": "./img/myprojects/admin-crm.PNG",
+    "title": "ADMIN-CRM",
+    "description": "Admin CRM software website is for admin to updation for all details.",
+    "link": "https://admincrmsoftware.netlify.app/"
+  },
+
+  {
+    "id": "7",
+    "src": "./img/myprojects/qtrip-dynamic.PNG",
+    "title": "QTRIP TRAVEL WEBSITE",
+    "description": "QTrip is a travel website aimed at travellers looking for a multitude of adventures in different cities.",
+    "link": "https://ajaypdynamic.netlify.app/"
+  }
+]
