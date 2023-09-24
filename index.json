@@ -24,7 +24,7 @@
     "id": "4",
     "src": "./img/myprojects/Xboard-newss.PNG",
     "title": "XBOARD NEWS",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+    "description": "XBoard is a News Feed website that will feature the latest news for select topics, from Flipboard.",
     "link": "https://ajaypxboard.netlify.app/"
   },
 
