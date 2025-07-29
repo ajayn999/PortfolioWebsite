@@ -1,0 +1,78 @@
+[
+  {
+    "company": "Bug Buster Pvt Ltd",
+    "role": "Senior Frontend Developer / MERN Stack Developer",
+    "from": "March 2024",
+    "to": "Present",
+    "location": "Ahmedabad (Remote/Office)",
+    "description": [
+      "Developing and maintaining multiple projects across different technologies, including React.js, Next.js, WordPress, and JavaScript.",
+      "Contributing to backend development at a basic level using Node.js, Express.js, and RESTful APIs to support frontend features.",
+      "Optimizing frontend performance by applying best practices in React.js, Next.js, and JavaScript.",
+      "Collaborating with cross-functional teams to integrate APIs and third-party services for dynamic web applications.",
+      "Managing version control with Git/GitHub to ensure efficient code tracking and collaboration.",
+      "Working in an Agile development environment, following JIRA-based workflows and Scrum methodologies for project management.",
+      "Applying user experience (UX) best practices to improve usability, accessibility, and overall frontend quality.",
+      "Troubleshooting and resolving UI/UX issues to enhance application usability and responsiveness.",
+      "Staying updated with the latest frontend and backend technologies to continuously improve development efficiency.",
+      "Designed and developed a cross-platform calling panel application using React Native for the frontend and Laravel for the backend.",
+      "Leading a team of 5 developers, overseeing task assignments, conducting code reviews, and mentoring junior team members.",
+      "Actively participating in Scrum ceremonies including sprint planning, daily standups, reviews, and retrospectives to ensure timely and high-quality deliveries."
+    ],
+    "techStack": [
+      "React.js",
+      "Next.js",
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "WordPress",
+      "React Native",
+      "Laravel",
+      "Git",
+      "GitHub",
+      "JIRA"
+    ]
+  },
+  {
+    "company": "Uveaa Pvt Ltd",
+    "role": "Senior Frontend Developer",
+    "from": "November 2023",
+    "to": "January 2024",
+    "location": "Ahmedabad (Australia - based)",
+    "description": [
+      "Spearheaded frontend architecture and development of Uveaa.com from scratch using React.js.",
+      "Designed responsive, user-friendly UI in collaboration with UX teams.",
+      "Handled API integrations and contributed to Node.js backend tasks.",
+      "Managed source control and CI/CD workflows using Git and GitHub."
+    ],
+    "techStack": ["React.js", "JavaScript", "Node.js", "REST API", "Git"]
+  },
+  {
+    "company": "CreekView Pvt Ltd",
+    "role": "MERN STACK Developer",
+    "from": "April 2020",
+    "to": "September 2023",
+    "location": "Ahmedabad (USA - based)",
+    "description": [
+      "Developed and maintained responsive web applications for various USA-based clients.",
+      "Integrated UI/UX improvements and worked closely with design teams.",
+      "Analyzed existing codebases and implemented new features to enhance system performance.",
+      "Collaborated with clients and stakeholders to understand business goals and refine features.",
+      "Built and integrated RESTful APIs using Node.js and Express.js to support frontend functionalities.",
+      "Handled basic backend logic including routing, middleware setup, and database operations with MongoDB.",
+      "Managed source control via Git/GitHub and handled performance optimizations."
+    ],
+    "techStack": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Git",
+      "GitHub"
+    ]
+  }
+]
