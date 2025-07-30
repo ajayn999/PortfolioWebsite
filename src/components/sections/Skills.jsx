@@ -32,7 +32,7 @@ const Skills = () => {
       <div className="skills-wrapper">
         {/* Left Side – Image */}
         <div className="skills-image">
-          <img src="/mern.png" alt="Skills" className="profile-image" />
+          <img src="./mern.png" alt="Skills" className="profile-image" />
         </div>
 
         {/* Right Side – Skill Content */}

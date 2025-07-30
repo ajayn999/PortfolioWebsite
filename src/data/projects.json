@@ -1,28 +1,28 @@
 [
   {
     "name": "E-commerce Platform",
-    "image": "/assets/ecommerce.png",
+    "image": "./assets/ecommerce.png",
     "description": "Full-stack e-commerce web app with product listing, cart, and payment integration.",
     "tools": ["React", "Node.js", "Express", "MongoDB", "Redux", "Stripe"],
     "url": ""
   },
   {
     "name": "To-Do App",
-    "image": "/assets/todo.png",
+    "image": "./assets/todo.png",
     "description": "A simple app to add, delete, and mark tasks as done.",
     "tools": ["React", "Node.js", "Express", "MongoDB"],
     "url": ""
   },
   {
     "name": "Fitness Tracker",
-    "image": "/assets/fitness.png",
+    "image": "./assets/fitness.png",
     "description": "A fitness tracking app where users can log workouts, set goals, and view progress charts.",
     "tools": ["React", "Node.js", "Express", "MongoDB", "Chart.js", "JWT"],
     "url": ""
   },
   {
     "name": "Job Board Platform",
-    "image": "/assets/jobboard.png",
+    "image": "./assets/jobboard.png",
     "description": "A job posting and application portal with authentication and role-based access.",
     "tools": [
       "React",
@@ -36,14 +36,14 @@
   },
   {
     "name": "Weather App",
-    "image": "/assets/weather.png",
+    "image": "./assets/weather.png",
     "description": "Check current weather by city name using an API.",
     "tools": ["React", "Node.js", "Express", "OpenWeather API"],
     "url": ""
   },
   {
     "name": "Notes App",
-    "image": "/assets/notes.png",
+    "image": "./assets/notes.png",
     "description": "Create, save, and delete personal notes.",
     "tools": ["React", "Node.js", "Express", "MongoDB"],
     "url": ""

@@ -33,7 +33,7 @@ export default function Navbar() {
       {/* Mobile Top Bar */}
       <div className="mobile-header">
         <img
-          src="/assets/sideProfile.jpg"
+          src="./assets/sideProfile.jpg"
           alt="Profile"
           width={40}
           height={40}
@@ -48,7 +48,7 @@ export default function Navbar() {
         <div className="sidebar-content">
           <div className="profile-section">
             <img
-              src="/assets/sideProfile.jpg"
+              src="./assets/sideProfile.jpg"
               alt="Profile"
               className="profile-img"
               width={100}

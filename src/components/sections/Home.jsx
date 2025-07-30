@@ -94,7 +94,7 @@ export default function Home() {
       <div className="home-image">
         <img
           ref={imageRef}
-          src="/assets/sideProfile.jpg"
+          src="./assets/sideProfile.jpg"
           alt="Ajay Parihar"
           className="profile-image"
         />
