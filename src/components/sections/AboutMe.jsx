@@ -5,11 +5,16 @@ const Aboute = () => {
     <section id="aboutme" className="about-section">
       <h2 className="section-title">About Me</h2>
 
-      <p className="about-description">
-        I am a <strong>Senior Frontend & Backend Developer</strong> with 5 years
-        of experience in building robust, scalable web applications and custom
-        WordPress solutions.
-      </p>
+   <p className="about-description">
+  I am a <strong>Senior Frontend & Backend Developer</strong> driven by a passion
+  for creating powerful, scalable, and user-friendly digital experiences. I
+  specialize in building modern web applications using technologies like React,
+  Next.js, Node.js, and Express, while also delivering custom WordPress
+  solutions tailored to unique business needs. With a strong focus on clean code,
+  performance optimization, and intuitive design, I enjoy turning complex ideas
+  into seamless, responsive solutions that make an impact.
+</p>
+
 
       <p className="about-description">
         My primary focus is on <strong>frontend development</strong>, where I

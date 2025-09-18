@@ -78,17 +78,10 @@ export default function Home() {
         </h2>
 
         <p ref={paraRef} className="home-description">
-          Senior Frontend Developer with 5 years of experience building
-          scalable, responsive, and user-focused web applications. Proficient in
-          modern frontend technologies including React.js, Next.js, Redux,
-          JavaScript (ES6+), HTML5, CSS3, and Tailwind CSS. Skilled in creating
-          clean, reusable components, implementing MVC architecture, and
-          optimizing UI performance. Also experienced with backend development
-          using Node.js and Express.js, developing RESTful APIs, and applying
-          secure authentication methods such as JWT, OAuth, and CSRF token
-          protection. Familiar with MongoDB integration in full-stack
-          environments.
-        </p>
+        Senior Frontend Developer passionate about building scalable, responsive, and user-focused web applications. Proficient in modern frontend technologies like React.js, Next.js, Redux, JavaScript (ES6+), HTML5, CSS3, and Tailwind CSS. Skilled in crafting clean, reusable components, implementing MVC architecture, and optimizing UI performance.
+
+<br/>Beyond frontend, I also bring experience with backend development using Node.js and Express.js—creating RESTful APIs and implementing secure authentication (JWT, OAuth, CSRF protection). Comfortable working with MongoDB in full-stack environments, I enjoy turning ideas into seamless digital experiences.
+       </p>
       </div>
 
       <div className="home-image">
