@@ -7,11 +7,11 @@
     "url": ""
   },
   {
-    "name": "To-Do App",
-    "image": "./assets/todo.png",
-    "description": "A simple app to add, delete, and mark tasks as done.",
-    "tools": ["React", "Node.js", "Express", "MongoDB"],
-    "url": ""
+    "name": "Make a List",
+    "image": "./projects/todoApp.png",
+    "description": "Write down your Today Tasks before you start your day",
+    "tools": ["React"],
+    "url": "https://makealistsbyajay.vercel.app/"
   },
   {
     "name": "Fitness Tracker",
