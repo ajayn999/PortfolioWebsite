@@ -7,8 +7,9 @@ const Certificates = () => {
       <h2 className="section-title">Certifications</h2>
 
       <div className="certificates-grid">
-        {certificateData.map((cert) => (
-          <div key={cert.id} className="certificate-card">
+        {certificateData.map((cert, key) => (
+          <>
+          <div key={key} className="certificate-card">
             <img
               src={cert.image}
               alt={cert.title}
@@ -24,7 +25,9 @@ const Certificates = () => {
               View Certification
             </a>
           </div>
-        ))}
+</>
+
+))}
       </div>
     </section>
   );

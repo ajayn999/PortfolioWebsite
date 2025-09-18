@@ -6,15 +6,46 @@
     "link": "https://drive.google.com/file/d/1cNw-kLKtv5irgwpOawNWLs7AqRcAeovc/view?pli=1"
   },
   {
-    "id": 1,
+    "id": 2,
     "title": "Frontend Development Certification",
     "image": "./certificates/frontend.png",
     "link": "https://drive.google.com/file/d/1yoFmU0DDvO5XWnJM-l7_Xp_HZVxbZC_2/view"
   },
   {
-    "id": 1,
+    "id": 3,
     "title": "Fullstack Development Certification",
     "image": "./certificates/fullstack.png",
     "link": "https://drive.google.com/file/d/1uoocDf2Hu--TNyzQnSx2EzD62V0rVaN2/view"
+  },
+   {
+    "id": 4,
+    "title": "React Developement",
+    "image": "./certificates/reactWeb.png",
+    "link": "https://drive.google.com/file/d/1ejFQL0_TJaeMQczYUpSKLTjpuIqryTiX/view?usp=drive_link"
+  },
+   {
+    "id": 4,
+    "title": "React Unit Tests",
+    "image": "./certificates/ReactUnitTest.png",
+    "link": "https://drive.google.com/file/d/1NhMCIo32ZFd3qNYfzjNYgZ1PigBmI3ip/view?usp=drive_link"
+  },
+    {
+    "id": 5,
+    "title": "HTML CSS and JavaScript",
+    "image": "./certificates/htmlCssJavascriptWeb.png",
+    "link": "https://drive.google.com/file/d/199dbJpvtf8V_oZfTWupJk5DlzaDyIlWF/view?usp=drive_link"
+  },
+     {
+    "id": 6,
+    "title": "Project Menegement",
+    "image": "./certificates/projectManagement.png",
+    "link": "https://drive.google.com/file/d/1HDngMEy_eRrKE41N7ZAQ2L2ICVgyhgZ5/view?usp=drive_link"
+  },
+     {
+    "id": 7,
+    "title": "Shopify Website Development",
+    "image": "./certificates/shopify.png",
+    "link": "https://drive.google.com/file/d/13yYCdczZwEvTq5n6fwLrEiKoqWqsk9uf/view?usp=drive_link"
   }
+
 ]

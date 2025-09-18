@@ -40,7 +40,10 @@ export default function Navbar() {
           style={{ borderRadius: "10px" }}
           className="mobile-profile"
         />
+        <div style={{marginRight:"30px"}}>
+
         <FaBars onClick={() => setMenuOpen(!menuOpen)} className="hamburger" />
+        </div>
       </div>
 
       {/* Full Sidebar / Mini Mobile Nav */}
