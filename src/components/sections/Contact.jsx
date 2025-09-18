@@ -29,12 +29,12 @@ const Contact = () => {
       )
       .then(
         () => {
-          setStatus("✅ Message sent! Check your email for confirmation.");
+          setStatus("✅ Message sent! Thanks For Your Message");
           setFormData({ name: "", email: "", message: "" });
         },
         (error) => {
           console.error(error.text);
-          setStatus(" Something went wrong. Please try again.");
+          setStatus(" Oopps May be Network Issue Please Drop Email on ajaypariharn@gmail.com");
         }
       );
   };
